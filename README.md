@@ -35,6 +35,6 @@ git clone https://github.com/yourusername/Titanic-EDA-Analysis.git
 
 👤 Author
 Ziad Saied
-📧 Email: ziyadsaed5@gmail.com
-🔗 LinkedIn: linkedin.com/in/ziad-saiieed
-💻 GitHub: github.com/ziadsaied
+- 📧 Email: ziyadsaed5@gmail.com
+- 🔗 LinkedIn: linkedin.com/in/ziad-saiieed
+- 💻 GitHub: github.com/ziadsaied
